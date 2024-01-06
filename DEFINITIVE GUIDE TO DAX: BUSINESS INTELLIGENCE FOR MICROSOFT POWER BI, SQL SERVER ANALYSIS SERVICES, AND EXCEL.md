@@ -1,1 +1,42 @@
-!
+![image](https://github.com/quynhnhitran/dax-book/assets/128997325/1db2d799-efcd-43fc-a1dc-d732444c17f5)
+
+# 1.Contents
+-  CHAPTER 1 What is DAX?
+    - brief introduction to DAX
+    - hints: the differences between DAX and other languages
+-  CHAPTER 2 Introducing DAX
+    - cover basic concepts: calculated columns, measures, and error-handling functions
+-  CHAPTER 3 Using basic table functions
+    - basis table functions: many functions in DAX work on tables and return tables as a result 
+    - advanced table funtions in Chapter 12 & 13
+-  CHAPTER 4 Understanding evaluation contexts
+    - evaluation contexts => foundation of the DAX language => *most important in the entire book*
+-  CHAPTER 5 Understanding CALCULATE and CALCULATETABLE
+    - two functions: CALCULATE & CALCULATETABLE => *most important functions in DAX*
+-  CHAPTER 6 Variables
+    - syntax, explain how to use variables
+    - refernces
+    - examples using variables in chapters below
+-  CHAPTER 7 Working with iterators and with CALCULATE
+    - covers iterators and CALCULATE
+-  CHAPTER 8 Time intelligence calculations
+    - time intelligence calculations at a very in-depth level
+    - calculations: year-todate, month-to-date, values of the previous year, week-based perioeds, custom calendars
+-  CHAPTER 9 Calculation groups
+    - calculation groups
+    - how to create and use calculation groups
+    - introducing the basic concepts and showing a few examples
+-  CHAPTER 10 Working with the filter context
+    - more advanced uses of the filter context, data lineage, inspection of filter context, and other tools to compute advanced formulas
+-  CHAPTER 11 Handling hierarchies
+    - how to 
+-  CHAPTER 12 Working with tables
+-  CHAPTER 13 Authoring queries
+-  CHAPTER 14 Advanced DAX concepts
+-  CHAPTER 15 Advanced relationships
+-  CHAPTER 16 Advanced calculations in DAX 
+-  CHAPTER 17 The DAX engines 
+-  CHAPTER 18 Optimizing VertiPaq 
+-  CHAPTER 19 Analyzing DAX query plans 
+-  CHAPTER 20 Optimizing DAX
+
